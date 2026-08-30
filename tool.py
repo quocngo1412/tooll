@@ -63,9 +63,6 @@ EOF
 
 
 chmod +x petsim.sh
-
-
-
 ./petsim.sh
 
 
